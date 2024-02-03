@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ankus.xyz"><img width="80%" height="auto" src="https://cdn.discordapp.com/attachments/1054883051378843739/1080574967961374740/profile.png" height="200px"/></a><br>
+  <a href="https://ankus.xyz"><img width="80%" height="auto" src="https://i.imgur.com/EWXHHIF.png" height="200px"/></a><br>
   <a href="https://discord.gg/HKnXbykpJz"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/xhecz.09"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/9vjixe7lm4jgghmzj32h7f1b4"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
